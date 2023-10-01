@@ -1,0 +1,8 @@
+Im going to build a tic tac toe game 3 x 3
+- 2 players (1 cpu, 1 real player)
+- program will stop once one of the player wins
+- the characters to enter are x and o
+- player1 and playercpu will take turns in playing the game
+- the decision to whoever will start is through getting a random number which is high one is higher
+- implement loops (for or while)in creating the logic
+- implement functions for reusability of code
